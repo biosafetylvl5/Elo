@@ -40,7 +40,7 @@ eloLeague.expectResult(eloLeague.ratingDict['Daniel'],eloLeague.ratingDict['Harr
 ```
 ## Update Rankings
 ```python
-eloLeague.gameOver(winner = "Daniel, loser = "Harry")
+eloLeague.gameOver(winner = "Daniel", loser = "Harry")
 ```
 ## Tutorial
 A tutorial with NFL (American football) simulated Elo rankings can be found in the tutorial section.
